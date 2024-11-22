@@ -1,0 +1,14 @@
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\bin\Debug\net8.0\Chapter_01_First_Program.exe
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\bin\Debug\net8.0\Chapter_01_First_Program.deps.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\bin\Debug\net8.0\Chapter_01_First_Program.runtimeconfig.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\bin\Debug\net8.0\Chapter_01_First_Program.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\bin\Debug\net8.0\Chapter_01_First_Program.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.AssemblyInfoInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.AssemblyInfo.cs
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.csproj.CoreCompileInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\refint\Chapter_01_First_Program.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\Chapter_01_First_Program.genruntimeconfig.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_01_First_Program\obj\Debug\net8.0\ref\Chapter_01_First_Program.dll

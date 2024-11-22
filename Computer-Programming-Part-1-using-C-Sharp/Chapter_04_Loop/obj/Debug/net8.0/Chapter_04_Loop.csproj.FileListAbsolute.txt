@@ -1,0 +1,14 @@
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\bin\Debug\net8.0\Chapter_04_Loop.exe
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\bin\Debug\net8.0\Chapter_04_Loop.deps.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\bin\Debug\net8.0\Chapter_04_Loop.runtimeconfig.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\bin\Debug\net8.0\Chapter_04_Loop.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\bin\Debug\net8.0\Chapter_04_Loop.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.AssemblyInfoInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.AssemblyInfo.cs
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.csproj.CoreCompileInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\refint\Chapter_04_Loop.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\Chapter_04_Loop.genruntimeconfig.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_04_Loop\obj\Debug\net8.0\ref\Chapter_04_Loop.dll

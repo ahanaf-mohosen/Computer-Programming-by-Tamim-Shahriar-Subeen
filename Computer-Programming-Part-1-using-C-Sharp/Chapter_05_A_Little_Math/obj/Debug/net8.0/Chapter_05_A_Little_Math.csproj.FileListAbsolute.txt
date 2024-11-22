@@ -1,0 +1,14 @@
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\bin\Debug\net8.0\Chapter_05_A_Little_Math.exe
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\bin\Debug\net8.0\Chapter_05_A_Little_Math.deps.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\bin\Debug\net8.0\Chapter_05_A_Little_Math.runtimeconfig.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\bin\Debug\net8.0\Chapter_05_A_Little_Math.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\bin\Debug\net8.0\Chapter_05_A_Little_Math.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.AssemblyInfoInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.AssemblyInfo.cs
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.csproj.CoreCompileInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\refint\Chapter_05_A_Little_Math.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\Chapter_05_A_Little_Math.genruntimeconfig.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_05_A_Little_Math\obj\Debug\net8.0\ref\Chapter_05_A_Little_Math.dll

@@ -1,0 +1,14 @@
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\bin\Debug\net8.0\Chapter_02_DataType_Input_&_Output.exe
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\bin\Debug\net8.0\Chapter_02_DataType_Input_&_Output.deps.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\bin\Debug\net8.0\Chapter_02_DataType_Input_&_Output.runtimeconfig.json
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\bin\Debug\net8.0\Chapter_02_DataType_Input_&_Output.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\bin\Debug\net8.0\Chapter_02_DataType_Input_&_Output.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.AssemblyInfoInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.AssemblyInfo.cs
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.csproj.CoreCompileInputs.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\refint\Chapter_02_DataType_Input_&_Output.dll
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.pdb
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\Chapter_02_DataType_Input_&_Output.genruntimeconfig.cache
+F:\Self Development\C#\Computer-Programming-Part-1-using-C-Sharp\Chapter_02_DataType_Input_&_Output\obj\Debug\net8.0\ref\Chapter_02_DataType_Input_&_Output.dll
