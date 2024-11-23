@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\Chapter_10_Prime_Number.csproj",
+      "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\Chapter_10_Prime_Number.csproj",
       "projectName": "Chapter_10_Prime_Number",
-      "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\Chapter_10_Prime_Number.csproj",
+      "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\Chapter_10_Prime_Number.csproj",
       "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-      "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\obj\\",
+      "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_10_Prime_Number\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

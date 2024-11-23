@@ -1,0 +1,15 @@
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\bin\Debug\net8.0\Chap_05_Stack_&_Queue.exe
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\bin\Debug\net8.0\Chap_05_Stack_&_Queue.deps.json
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\bin\Debug\net8.0\Chap_05_Stack_&_Queue.runtimeconfig.json
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\bin\Debug\net8.0\Chap_05_Stack_&_Queue.dll
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\bin\Debug\net8.0\Chap_05_Stack_&_Queue.pdb
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.AssemblyInfoInputs.cache
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.AssemblyInfo.cs
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.csproj.CoreCompileInputs.cache
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.sourcelink.json
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.dll
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\refint\Chap_05_Stack_&_Queue.dll
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.pdb
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\Chap_05_Stack_&_Queue.genruntimeconfig.cache
+F:\Self Development\Computer Programming by Tamim Shahriar Subeen\Computer-Programming-Part-3-using-C-Sharp\Chapter_05_Stack_&_Queue\obj\Debug\net8.0\ref\Chap_05_Stack_&_Queue.dll

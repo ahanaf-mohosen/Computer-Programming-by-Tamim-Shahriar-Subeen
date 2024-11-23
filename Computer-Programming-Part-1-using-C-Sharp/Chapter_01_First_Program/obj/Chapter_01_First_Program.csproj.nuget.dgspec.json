@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj": {}
+    "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj": {}
   },
   "projects": {
-    "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj": {
+    "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj",
+        "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj",
         "projectName": "Chapter_01_First_Program",
-        "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj",
+        "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\Chapter_01_First_Program.csproj",
         "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-        "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\obj\\",
+        "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-1-using-C-Sharp\\Chapter_01_First_Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

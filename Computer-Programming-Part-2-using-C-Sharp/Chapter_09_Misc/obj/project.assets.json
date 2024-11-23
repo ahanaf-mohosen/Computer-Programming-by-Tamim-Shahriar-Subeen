@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Chapter_09_Misc.csproj",
+      "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Chapter_09_Misc.csproj",
       "projectName": "Chapter_09_Misc",
-      "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Chapter_09_Misc.csproj",
+      "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Chapter_09_Misc.csproj",
       "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-      "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\obj\\",
+      "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

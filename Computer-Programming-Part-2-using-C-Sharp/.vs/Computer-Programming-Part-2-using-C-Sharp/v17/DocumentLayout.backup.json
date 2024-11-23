@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\",
+  "WorkspaceRootPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3806FB6E-9004-4CD4-AD67-5F689B8082E3}|Chapter_10_Program_Debugging\\Chapter_10_Program_Debugging.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_10_program_debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3806FB6E-9004-4CD4-AD67-5F689B8082E3}|Chapter_10_Program_Debugging\\Chapter_10_Program_Debugging.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_10_program_debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3806FB6E-9004-4CD4-AD67-5F689B8082E3}|Chapter_10_Program_Debugging\\Chapter_10_Program_Debugging.csproj|solutionrelative:chapter_10_program_debugging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D801BF4F-1FDD-4E46-8352-4B8CE847AE45}|Chapter_09_Misc\\Chapter_09_Misc.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_09_misc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D801BF4F-1FDD-4E46-8352-4B8CE847AE45}|Chapter_09_Misc\\Chapter_09_Misc.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_09_misc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D801BF4F-1FDD-4E46-8352-4B8CE847AE45}|Chapter_09_Misc\\Chapter_09_Misc.csproj|solutionrelative:chapter_09_misc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B94EFA5D-469B-4B4B-B47E-22AB1702D50F}|Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_08_some_interesting_programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B94EFA5D-469B-4B4B-B47E-22AB1702D50F}|Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_08_some_interesting_programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B94EFA5D-469B-4B4B-B47E-22AB1702D50F}|Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj|solutionrelative:chapter_08_some_interesting_programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B45DFFD9-B27F-4DB6-9A5E-25305558077F}|Chapter_07_More_Pointer\\Chapter_07_More_Pointer.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_07_more_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B94EFA5D-469B-4B4B-B47E-22AB1702D50F}|Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_08_some_interesting_programs\\dimik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94EFA5D-469B-4B4B-B47E-22AB1702D50F}|Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj|solutionrelative:chapter_08_some_interesting_programs\\dimik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B45DFFD9-B27F-4DB6-9A5E-25305558077F}|Chapter_07_More_Pointer\\Chapter_07_More_Pointer.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_07_more_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B45DFFD9-B27F-4DB6-9A5E-25305558077F}|Chapter_07_More_Pointer\\Chapter_07_More_Pointer.csproj|solutionrelative:chapter_07_more_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E15F16B6-BBB1-4872-8E7D-4A05644E77A7}|Chapter_06_Structure_\u0026_Union\\Chapter_06_Structure_\u0026_Union.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_06_structure_\u0026_union\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E15F16B6-BBB1-4872-8E7D-4A05644E77A7}|Chapter_06_Structure_\u0026_Union\\Chapter_06_Structure_\u0026_Union.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_06_structure_\u0026_union\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E15F16B6-BBB1-4872-8E7D-4A05644E77A7}|Chapter_06_Structure_\u0026_Union\\Chapter_06_Structure_\u0026_Union.csproj|solutionrelative:chapter_06_structure_\u0026_union\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{628AF727-978C-4BA7-A427-06F4FA608A50}|Chapter_05_Bitwise_Operation\\Chapter_05_Bitwise_Operation.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_05_bitwise_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{628AF727-978C-4BA7-A427-06F4FA608A50}|Chapter_05_Bitwise_Operation\\Chapter_05_Bitwise_Operation.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_05_bitwise_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628AF727-978C-4BA7-A427-06F4FA608A50}|Chapter_05_Bitwise_Operation\\Chapter_05_Bitwise_Operation.csproj|solutionrelative:chapter_05_bitwise_operation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CD243EB-8467-4EF3-81CE-EE9326263431}|Chapter_04_Recursion\\Chapter_04_Recursion.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_04_recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CD243EB-8467-4EF3-81CE-EE9326263431}|Chapter_04_Recursion\\Chapter_04_Recursion.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_04_recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CD243EB-8467-4EF3-81CE-EE9326263431}|Chapter_04_Recursion\\Chapter_04_Recursion.csproj|solutionrelative:chapter_04_recursion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1ED4305-09CB-4A0C-947E-8C5AB4E861B3}|Chapter_03_File\\Chapter_03_File.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_03_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1ED4305-09CB-4A0C-947E-8C5AB4E861B3}|Chapter_03_File\\Chapter_03_File.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_03_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1ED4305-09CB-4A0C-947E-8C5AB4E861B3}|Chapter_03_File\\Chapter_03_File.csproj|solutionrelative:chapter_03_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DF11A60-B24F-4CF0-9E83-CC61807FBFFE}|Chapter_02_Pointer\\Chapter_02_Pointer.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_02_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DF11A60-B24F-4CF0-9E83-CC61807FBFFE}|Chapter_02_Pointer\\Chapter_02_Pointer.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_02_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DF11A60-B24F-4CF0-9E83-CC61807FBFFE}|Chapter_02_Pointer\\Chapter_02_Pointer.csproj|solutionrelative:chapter_02_pointer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEDA76D1-AA77-45C0-A962-8EB12F3670E7}|Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj|f:\\self development\\c#\\computer-programming-part-2-using-c-sharp\\chapter_01_computer_memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEDA76D1-AA77-45C0-A962-8EB12F3670E7}|Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-2-using-c-sharp\\chapter_01_computer_memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEDA76D1-AA77-45C0-A962-8EB12F3670E7}|Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj|solutionrelative:chapter_01_computer_memory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,112 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_08_Some_Interesting_Programs\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Program.cs",
-              "RelativeToolTip": "Chapter_08_Some_Interesting_Programs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:55:02.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_07_More_Pointer\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_07_More_Pointer\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_07_More_Pointer\\Program.cs",
-              "RelativeToolTip": "Chapter_07_More_Pointer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:54:57.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_\u0026_Union\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_06_Structure_\u0026_Union\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_\u0026_Union\\Program.cs",
-              "RelativeToolTip": "Chapter_06_Structure_\u0026_Union\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:54:53.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_05_Bitwise_Operation\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_05_Bitwise_Operation\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_05_Bitwise_Operation\\Program.cs",
-              "RelativeToolTip": "Chapter_05_Bitwise_Operation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:54:49.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_04_Recursion\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_04_Recursion\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_04_Recursion\\Program.cs",
-              "RelativeToolTip": "Chapter_04_Recursion\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:54:46.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_03_File\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_03_File\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_03_File\\Program.cs",
-              "RelativeToolTip": "Chapter_03_File\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:54:37.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_02_Pointer\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_02_Pointer\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_02_Pointer\\Program.cs",
-              "RelativeToolTip": "Chapter_02_Pointer\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:51:41.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_01_Computer_Memory\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Program.cs",
-              "RelativeToolTip": "Chapter_01_Computer_Memory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:50:25.772Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -168,26 +68,143 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_10_Program_Debugging\\Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_10_Program_Debugging\\Program.cs",
               "RelativeDocumentMoniker": "Chapter_10_Program_Debugging\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_10_Program_Debugging\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_10_Program_Debugging\\Program.cs",
               "RelativeToolTip": "Chapter_10_Program_Debugging\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:44:58.009Z",
+              "WhenOpened": "2024-11-23T12:09:41.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Program.cs",
               "RelativeDocumentMoniker": "Chapter_09_Misc\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_09_Misc\\Program.cs",
               "RelativeToolTip": "Chapter_09_Misc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAIQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T21:21:34.634Z",
+              "WhenOpened": "2024-11-23T12:07:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_08_Some_Interesting_Programs\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Program.cs",
+              "RelativeToolTip": "Chapter_08_Some_Interesting_Programs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:06:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dimik.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\dimik.cs",
+              "RelativeDocumentMoniker": "Chapter_08_Some_Interesting_Programs\\dimik.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\dimik.cs",
+              "RelativeToolTip": "Chapter_08_Some_Interesting_Programs\\dimik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T12:04:35.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_07_More_Pointer\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_07_More_Pointer\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_07_More_Pointer\\Program.cs",
+              "RelativeToolTip": "Chapter_07_More_Pointer\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:58.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_\u0026_Union\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_06_Structure_\u0026_Union\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_\u0026_Union\\Program.cs",
+              "RelativeToolTip": "Chapter_06_Structure_\u0026_Union\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:46:17.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_05_Bitwise_Operation\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_05_Bitwise_Operation\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_05_Bitwise_Operation\\Program.cs",
+              "RelativeToolTip": "Chapter_05_Bitwise_Operation\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAADsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:45:00.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_04_Recursion\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_04_Recursion\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_04_Recursion\\Program.cs",
+              "RelativeToolTip": "Chapter_04_Recursion\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:42:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_03_File\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_03_File\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_03_File\\Program.cs",
+              "RelativeToolTip": "Chapter_03_File\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:38:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_02_Pointer\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_02_Pointer\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_02_Pointer\\Program.cs",
+              "RelativeToolTip": "Chapter_02_Pointer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:37:00.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Program.cs",
+              "RelativeDocumentMoniker": "Chapter_01_Computer_Memory\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Program.cs",
+              "RelativeToolTip": "Chapter_01_Computer_Memory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:36:13.405Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chap_10_Hash_Table")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5531c40ba43b4245cb1c673e25d702dc77a3e196")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e73edb2fbec7b16b319156e1db9b99421c5e5c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chap_10_Hash_Table")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chap_10_Hash_Table")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

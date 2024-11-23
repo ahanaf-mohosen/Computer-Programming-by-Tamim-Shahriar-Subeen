@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap_09_HeapSort_PriorityQueue/1.0.0": {
+        "runtime": {
+          "Chap_09_HeapSort_PriorityQueue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap_09_HeapSort_PriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj",
+      "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj",
       "projectName": "Chapter_01_Computer_Memory",
-      "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj",
+      "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\Chapter_01_Computer_Memory.csproj",
       "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-      "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\obj\\",
+      "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_01_Computer_Memory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

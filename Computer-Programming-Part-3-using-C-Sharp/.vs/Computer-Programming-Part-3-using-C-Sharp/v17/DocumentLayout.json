@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9197F7D3-2D1B-421F-A089-40D72A811ED9}|Data Structure\\Chap_11_More_Sorting_Algorithm.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\data structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9197F7D3-2D1B-421F-A089-40D72A811ED9}|Data Structure\\Chap_11_More_Sorting_Algorithm.csproj|solutionrelative:data structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79A26A64-5DD6-4399-A047-5901EC392A0A}|Chap_10_Hash_Table\\Chap_10_Hash_Table.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chap_10_hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79A26A64-5DD6-4399-A047-5901EC392A0A}|Chap_10_Hash_Table\\Chap_10_Hash_Table.csproj|solutionrelative:chap_10_hash_table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6220D643-90F8-4434-A0B3-58A03FEFBCC9}|Chap_09_HeapSort_PriorityQueue\\Chap_09_HeapSort_PriorityQueue.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chap_09_heapsort_priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6220D643-90F8-4434-A0B3-58A03FEFBCC9}|Chap_09_HeapSort_PriorityQueue\\Chap_09_HeapSort_PriorityQueue.csproj|solutionrelative:chap_09_heapsort_priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D77985-AE9A-4A53-8690-F6A854BA00CB}|Chapter_08_Binary_Search_Tree\\Chap_08_Binary_Search_Tree.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chapter_08_binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D77985-AE9A-4A53-8690-F6A854BA00CB}|Chapter_08_Binary_Search_Tree\\Chap_08_Binary_Search_Tree.csproj|solutionrelative:chapter_08_binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4382B505-F458-45A9-98A4-F06CDF22FF53}|Chapter_07_Tree\\Chap_07_Tree.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chapter_07_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4382B505-F458-45A9-98A4-F06CDF22FF53}|Chapter_07_Tree\\Chap_07_Tree.csproj|solutionrelative:chapter_07_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02924F8E-1C48-4A2D-97F5-9895FDEAF0C5}|Chapter_06_Linked_List\\Chap_06_Linked_List.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chapter_06_linked_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02924F8E-1C48-4A2D-97F5-9895FDEAF0C5}|Chapter_06_Linked_List\\Chap_06_Linked_List.csproj|solutionrelative:chapter_06_linked_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{282FB9DA-54FC-4F0A-8D9B-6F8C17DF9697}|Chap_11_More_Sorting_Algorithm\\Chap_11_More_Sorting_Algorithm.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chap_11_more_sorting_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282FB9DA-54FC-4F0A-8D9B-6F8C17DF9697}|Chap_11_More_Sorting_Algorithm\\Chap_11_More_Sorting_Algorithm.csproj|solutionrelative:chap_11_more_sorting_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,47 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Data Structure\\Program.cs",
-              "RelativeDocumentMoniker": "Data Structure\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Data Structure\\Program.cs",
-              "RelativeToolTip": "Data Structure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:13:19.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_10_Hash_Table\\Program.cs",
-              "RelativeDocumentMoniker": "Chap_10_Hash_Table\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_10_Hash_Table\\Program.cs",
-              "RelativeToolTip": "Chap_10_Hash_Table\\Program.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAqwN4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:11:22.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_09_HeapSort_PriorityQueue\\Program.cs",
-              "RelativeDocumentMoniker": "Chap_09_HeapSort_PriorityQueue\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_09_HeapSort_PriorityQueue\\Program.cs",
-              "RelativeToolTip": "Chap_09_HeapSort_PriorityQueue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:09:24.17Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -85,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_08_Binary_Search_Tree\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_08_Binary_Search_Tree\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_08_Binary_Search_Tree\\Program.cs",
-              "RelativeToolTip": "Chapter_08_Binary_Search_Tree\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "RelativeToolTip": "Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:05:29.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_07_Tree\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_07_Tree\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_07_Tree\\Program.cs",
-              "RelativeToolTip": "Chapter_07_Tree\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAcwHIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:04:56.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_06_Linked_List\\Program.cs",
-              "RelativeDocumentMoniker": "Chapter_06_Linked_List\\Program.cs",
-              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chapter_06_Linked_List\\Program.cs",
-              "RelativeToolTip": "Chapter_06_Linked_List\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T09:02:25.153Z",
+              "WhenOpened": "2024-11-23T11:12:59.37Z",
               "EditorCaption": ""
             }
           ]

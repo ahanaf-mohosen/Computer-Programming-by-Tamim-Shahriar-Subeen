@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Self Development\\C#\\Computer-Programming-Part-3-using-C-Sharp\\",
+  "WorkspaceRootPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9197F7D3-2D1B-421F-A089-40D72A811ED9}|Data Structure\\Data Structure.csproj|f:\\self development\\c#\\computer-programming-part-3-using-c-sharp\\data structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9197F7D3-2D1B-421F-A089-40D72A811ED9}|Data Structure\\Data Structure.csproj|solutionrelative:data structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{282FB9DA-54FC-4F0A-8D9B-6F8C17DF9697}|Chap_11_More_Sorting_Algorithm\\Chap_11_More_Sorting_Algorithm.csproj|f:\\self development\\computer programming by tamim shahriar subeen\\computer-programming-part-3-using-c-sharp\\chap_11_more_sorting_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282FB9DA-54FC-4F0A-8D9B-6F8C17DF9697}|Chap_11_More_Sorting_Algorithm\\Chap_11_More_Sorting_Algorithm.csproj|solutionrelative:chap_11_more_sorting_algorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Self Development\\C#\\Computer-Programming-Part-3-using-C-Sharp\\Data Structure\\Program.cs",
-              "RelativeDocumentMoniker": "Data Structure\\Program.cs",
-              "ToolTip": "F:\\Self Development\\C#\\Computer-Programming-Part-3-using-C-Sharp\\Data Structure\\Program.cs",
-              "RelativeToolTip": "Data Structure\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "RelativeDocumentMoniker": "Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "ToolTip": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-3-using-C-Sharp\\Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "RelativeToolTip": "Chap_11_More_Sorting_Algorithm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T17:21:08.561Z",
+              "WhenOpened": "2024-11-23T11:12:59.37Z",
               "EditorCaption": ""
             }
           ]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\Chapter_06_Structure_&_Union.csproj",
+      "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\Chapter_06_Structure_&_Union.csproj",
       "projectName": "Chapter_06_Structure_&_Union",
-      "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\Chapter_06_Structure_&_Union.csproj",
+      "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\Chapter_06_Structure_&_Union.csproj",
       "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-      "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\obj\\",
+      "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_06_Structure_&_Union\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

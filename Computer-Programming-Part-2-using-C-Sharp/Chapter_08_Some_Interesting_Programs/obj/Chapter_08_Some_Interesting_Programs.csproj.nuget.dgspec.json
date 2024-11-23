@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj": {}
+    "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj": {}
   },
   "projects": {
-    "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj": {
+    "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj",
+        "projectUniqueName": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj",
         "projectName": "Chapter_08_Some_Interesting_Programs",
-        "projectPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj",
+        "projectPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\Chapter_08_Some_Interesting_Programs.csproj",
         "packagesPath": "C:\\Users\\ahana\\.nuget\\packages\\",
-        "outputPath": "F:\\Self Development\\C#\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\obj\\",
+        "outputPath": "F:\\Self Development\\Computer Programming by Tamim Shahriar Subeen\\Computer-Programming-Part-2-using-C-Sharp\\Chapter_08_Some_Interesting_Programs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
